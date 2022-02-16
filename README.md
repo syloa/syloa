@@ -8,12 +8,22 @@
 <div align=center>
 
 # Hi there 👋
-
-
+---
+  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgim7357@gmail.com)](mailto:jgim7357@gmail.com)
-
-
+  
 </div> 
+
+## Github Stat
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=s2domingo" />
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2domingo&layout=compact&langs_count=10" />
+
+
+  
+
+
 
 
 <!--
