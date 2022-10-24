@@ -14,13 +14,15 @@
   
 </div> 
 
+<div align=center>
+
 ## Github Stat
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=s2domingo" />
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2domingo&layout=compact&langs_count=10" />
 
-
+</div>
   
 
 
