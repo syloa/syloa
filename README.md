@@ -10,7 +10,7 @@
 # Hi there 👋
 ---
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgim7357@gmail.com)](mailto:jgim7357@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tech.siyoung@gmail.com)](mailto:tech.siyoung@gmail.com)
   
 </div> 
 
