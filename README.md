@@ -11,6 +11,9 @@
 ---
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tech.siyoung@gmail.com)](mailto:tech.siyoung@gmail.com)
+  
+  
+ 
 [![Github Pages](https://img.shields.io/badge/-Git%20Blog-black?style=flat-squre&logo=github&link=https://s2domingo.github.io/](https://s2domingo.github.io/)
 
 </div> 
