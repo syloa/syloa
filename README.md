@@ -15,7 +15,9 @@
   
  
 [![Github Pages](https://img.shields.io/badge/-Git%20Blog-black?style=flat-squre&logo=github&link=https://s2domingo.github.io/](https://s2domingo.github.io/)
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://s2domingo.github.io/)](https://s2domingo.github.io/)
+  
+  
 </div> 
 
 <div align=center>
