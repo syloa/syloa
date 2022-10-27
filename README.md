@@ -11,9 +11,9 @@
 ---
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tech.siyoung@gmail.com)](mailto:tech.siyoung@gmail.com)
-[![Github Pages Badge](http://img.shields.io/badge/-Git%20Blog-black?style=flat-square&logo=github pages&link=https://s2domingo.github.io/)](https://s2domingo.github.io/)
-[![Github Pages Badge](https://img.shields.io/badge/-Tistory%20Blog-lightgrey?style=flat-square&logo=tistory&link=https://s2domingo.github.io/)](https://s2domingo.github.io/)
-  https://img.shields.io/badge/-Tistory%20Blog-lightgrey
+[![Github Pages Badge](http://img.shields.io/badge/-Git%20Blog-black?style=flat-square&logo=Github Pages&link=https://s2domingo.github.io/)](https://s2domingo.github.io/)
+[![Tistory Blog Badge](https://img.shields.io/badge/-Tistory%20Blog-lightgrey?style=flat-square&logo=tistory&link=https://s2domingo.github.io/)](https://s2domingo.github.io/)
+
 </div> 
 
 <div align=center>
