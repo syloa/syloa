@@ -12,8 +12,7 @@
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tech.siyoung@gmail.com)](mailto:tech.siyoung@gmail.com)
   
-  
- 
+[![Github Pages Badge](http://img.shields.io/badge/-Git%20blog-black?style=flat-square&logo=github&link=https://s2domingo.github.io/)](https://s2domingo.github.io/)
 [![Github Pages](https://img.shields.io/badge/-Git%20blog-black?style=flat-squre&logo=github&link=https://s2domingo.github.io/](https://s2domingo.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://s2domingo.github.io/)](https://s2domingo.github.io/)
   
