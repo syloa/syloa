@@ -16,22 +16,9 @@
 
 </div> 
 
-<div align=center>
-
-## Github Stat
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=syloa" />
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syloa&layout=compact&langs_count=10" />
-
-</div>
-  
-
-
-
 
 <!--
-**S2Domingo/S2Domingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**syloa/syloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
